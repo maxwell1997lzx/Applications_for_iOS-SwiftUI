@@ -2,6 +2,8 @@
 
 Study material for the course Developing Applications for iOS using SwiftUI given by Paul Hegarty at Stanford University in Spring 2021. This repo contains code-alongs of all lectures as well as completed assignment tasks (spread through projects, you can find them by deltas and commits if needed)
 
+![Screencapture](https://user-images.githubusercontent.com/47311671/148287073-cc1b1c9e-9ac6-4276-a0a2-437c78cf1611.gif)
+
 ## Contents
 
 ### iOS applications
